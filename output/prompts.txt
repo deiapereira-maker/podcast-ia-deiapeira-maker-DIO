@@ -1,0 +1,12 @@
+Prompt da imagem do personagem Messi:
+(… texto que você gerou comigo …)
+
+Prompt da capa do podcast:
+(… texto …)
+
+Prompt da voz do Messi:
+(… texto …)
+
+Prompt do roteiro:
+(… texto …)
+
