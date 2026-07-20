@@ -1,3 +1,5 @@
+![Messi - A Casinha](LINK-DA-IMAGEM-AQUI)
+
 # 🎙️ Podcast IA — Episódio 1  
 ### Alienação Fiduciária Sem Drama: Messi Explica!
 
