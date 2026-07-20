@@ -14,6 +14,7 @@
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge)
 
 
+
 Este repositório contém os arquivos do primeiro episódio do podcast criado para o desafio da DIO, utilizando ferramentas de IA para gerar:
 - Roteiro  
 - Voz sintetizada  
