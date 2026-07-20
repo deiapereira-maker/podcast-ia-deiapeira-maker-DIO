@@ -1,4 +1,4 @@
-![Messi - A Casinha](LINK-DA-IMAGEM-AQUI)
+output/![Messi - A Casinha](LINK-DA-IMAGEM-AQUI).png
 
 
 # 🎙️ Podcast IA — Episódio 1  
