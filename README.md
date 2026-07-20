@@ -1,5 +1,4 @@
-![Messi - A Casinha](https://raw.githubusercontent.com/deiapereira-maker/podcast-ia-deiapereira-maker-DIO/main/output/NOME-DA-IMAGEM.png)
-
+![Messi - A Casinha](https://raw.githubusercontent.com/deiapereira-maker/podcast-ia-deiapeira-maker-DIO/main/output/casinha.jpeg)
 
 
 # 🎙️ Podcast IA — Episódio 1  
